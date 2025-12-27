@@ -10,6 +10,9 @@ RUN apt-get update && apt-get install -y \
 # Set working directory
 WORKDIR /app
 
+# Create the data directories explicitly
+RUN mkdir -p data/pdfs data/faiss_idx
+
 # Copy files
 COPY requirement.txt .
 # COPY .env .
