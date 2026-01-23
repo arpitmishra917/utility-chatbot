@@ -4,7 +4,7 @@ A multi-tool LLM-powered chatbot integrated with an **MCP server** to handle ext
 Supports **PDF upload & question answering** using document embeddings and vector search.  
 Implements **tool-based reasoning** with LangChain & LangGraph, deployed on **AWS** with Dockerized services and a **Streamlit UI**.
 
-🔗 **Live Demo:** [http://16.170.228.215:8501/](http://16.170.228.215:8501/)
+🔗 **Live Demo:** [https://huggingface.co/spaces/arpitmishra917/multi-utility-chatbot ](https://huggingface.co/spaces/arpitmishra917/multi-utility-chatbot )
 
 ---
 
